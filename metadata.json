@@ -1,0 +1,7 @@
+{
+  "name": "晨曦历 (Aura Calendar)",
+  "description": "一款精致的iOS风格日历应用，集成中国阴历、节气节日、每日诗词名句、全球及中国热门新闻，并根据每日主题生成精美视觉Banner。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
